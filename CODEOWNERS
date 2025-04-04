@@ -1,0 +1,7 @@
+#Global
+* @eatsleepgit
+
+# Specific ownership for legal documents
+/PRIVACY_POLICY.md @eatsleepgit
+/TERMS_OF_SERVICE.md @eatsleepgit
+/docs/ @eatsleepgit
